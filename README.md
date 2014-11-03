@@ -81,4 +81,5 @@ SimpleKeychain is available under the MIT license. See the [LICENSE file]([LICEN
 ## Author
 
 SimpleKeychain Library - [Auth0](https://auth0.com)
+
 Xamarin Binding - Tyler Vanderhoef
