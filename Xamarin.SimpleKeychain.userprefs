@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.SimpleKeychain/ApiDefinition.cs">
+    <Files>
+      <File FileName="Xamarin.SimpleKeychain/ApiDefinition.cs" Line="31" Column="31" />
+      <File FileName="Xamarin.SimpleKeychain/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.SimpleKeychain/libXamarin.SimpleKeychain.linkwith.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Xamarin.SimpleKeychain" expanded="True" selected="True">
+            <Node name="libXamarin.SimpleKeychain.a" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

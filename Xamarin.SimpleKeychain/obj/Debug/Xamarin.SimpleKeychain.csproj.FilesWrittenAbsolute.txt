@@ -1,0 +1,10 @@
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/bin/Debug/Xamarin.SimpleKeychain.dll.mdb
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/bin/Debug/Xamarin.SimpleKeychain.dll
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/Xamarin.SimpleKeychain.dll
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/Xamarin.SimpleKeychain.dll.mdb
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain.Binding/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain.Binding/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/Xamarin.SimpleKeychain.dll
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain.Binding/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/obj/Debug/Xamarin.SimpleKeychain.dll.mdb
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain.Binding/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/bin/Debug/Xamarin.SimpleKeychain.dll.mdb
+/Users/tylervanderhoef/Documents/Github/Xamarin.SimpleKeychain.Binding/Xamarin.SimpleKeychain/Xamarin.SimpleKeychain/bin/Debug/Xamarin.SimpleKeychain.dll
